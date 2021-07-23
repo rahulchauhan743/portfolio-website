@@ -817,3 +817,17 @@ footer span a:hover {
     border: 8px solid crimson;
     border-radius: 10px;
 }
+
+.material-icons {
+    transform: rotateZ( 30deg);
+    margin-left: 4px;
+}
+
+.material-icons:hover {
+    color: black;
+}
+
+
+/* .git {
+    position: fixed;
+} */
