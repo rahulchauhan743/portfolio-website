@@ -271,7 +271,7 @@ section .title::after {
     height: 400px;
     width: 400px;
     object-fit: cover;
-    border-radius: 6px;
+    border-radius: 50px;
 }
 
 .about .about-content .right {
@@ -811,4 +811,9 @@ footer span a:hover {
 
 .rotate {
     transform: rotate(60deg);
+}
+
+.dd {
+    border: 8px solid crimson;
+    border-radius: 10px;
 }
