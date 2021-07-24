@@ -24,7 +24,7 @@ html {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #888;
+    background: #d61111;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -824,7 +824,7 @@ footer span a:hover {
 }
 
 .material-icons:hover {
-    color: black;
+    color: #111;
 }
 
 
